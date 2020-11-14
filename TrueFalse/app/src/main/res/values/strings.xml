@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TrueFalse</string>
+    <string name="default_text">Text</string>
+    <string name="false_text">False</string>
+    <string name="true_text">True</string>
+    <string name="previous_text">&lt;</string>
+    <string name="next_text">&gt;</string>
+</resources>
